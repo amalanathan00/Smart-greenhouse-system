@@ -1,1 +1,1 @@
-# Smart-greenhouse-system
+# Smart-greenhouse-management
